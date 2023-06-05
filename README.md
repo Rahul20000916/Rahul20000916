@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul20000916" alt="rahul20000916" /></a> </p>
 
-<img align= "right" alt="Me" width="400" height="250" src = "https://cdn.hashnode.com/res/hashnode/image/upload/v1648657506206/DRT1LznNL.gif?w=500&h=262&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm">
+<img align= "right" alt="Me" width="400" height="250" src = "https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 
 - 🔭 I’m currently working on **MERN STACK**
