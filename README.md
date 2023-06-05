@@ -1,3 +1,4 @@
+![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm RAHUL PRADEEP</h1>
 <h3 align="center">I am a passionate and dedicated MERN stack developer, investing hours to honing my skills and building innovative web applications. I hold a Bachelor's degree in Computer Applications (BCA) and have a strong foundation in web development.</h3>
 
