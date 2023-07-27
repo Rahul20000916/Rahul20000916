@@ -9,7 +9,7 @@
   <h2 align="center">GitHub Trophy</h2>
 </p>
 
-<div style="padding-left: 20px;"> <!-- Adjust the value as per your requirement -->
+<div style="padding-left: 100px;"> <!-- Adjust the value as per your requirement -->
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=rahul20000916&theme=darkhub&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="rahul20000916" />
