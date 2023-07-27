@@ -4,11 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul20000916&label=Profile%20views&color=0e75b6&style=flat" alt="rahul20000916" /> </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=rahul20000916&theme=darkhub&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="rahul20000916" />
-  </a>
-</p>
+<center>
+  <p>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img  src="https://github-profile-trophy.vercel.app/?username=rahul20000916&theme=darkhub&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&fake=1" alt="rahul20000916" />
+    </a>
+  </p>
+</center>
+
 
 
 
