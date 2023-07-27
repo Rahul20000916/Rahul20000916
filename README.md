@@ -2,8 +2,13 @@
 <h1 align="center">Hi 👋, I'm RAHUL PRADEEP</h1>
 <h3 align="center">I am a passionate and dedicated MERN stack developer, investing hours to honing my skills and building innovative web applications. I hold a Bachelor's degree in Computer Applications (BCA) and have a strong foundation in web development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul20000916&label=Profile%20views&color=0e75b6&style=flat" alt="rahul20000916" /> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=rahul20000916&theme=darkhub&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul20000916&label=Profile%20views&color=0e75b6&style=flat" alt="rahul20000916" /> 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rahul20000916&theme=darkhub&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="rahul20000916" />
+  </a>
+</p>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
