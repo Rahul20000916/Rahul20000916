@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul20000916&label=Profile%20views&color=0e75b6&style=flat" alt="rahul20000916" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="400" height="250" src="https://github-profile-trophy.vercel.app/?username=rahul20000916" alt="rahul20000916" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width src="https://github-profile-trophy.vercel.app/?username=rahul20000916" alt="rahul20000916" /></a> </p>
 
 <img align= "right" alt="Me" width="400" height="250" src = "https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
