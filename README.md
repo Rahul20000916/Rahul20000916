@@ -11,7 +11,7 @@
 
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img align="center" width="1500" src="https://github-profile-trophy.vercel.app/?username=rahul20000916&theme=darkhub&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="rahul20000916" />
+      <img width="100" src="https://github-profile-trophy.vercel.app/?username=rahul20000916&theme=darkhub&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="rahul20000916" />
     </a>
   </p>
 
