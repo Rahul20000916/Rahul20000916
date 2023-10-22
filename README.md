@@ -2,26 +2,7 @@
 # 💫 About Me:
 <h5 align="left">MERN stack developer with freelancing experience in front-end and back-end development of web applications, self-taught and self-motivated, curious about learning and taking projects, enjoys exploring new ideas and creating solutions on time.</h5>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rahul20000916&label=Profile%20views&color=0e75b6&style=flat" alt="rahul20000916" /> 
-
-<p align="center"> 
-  <h2 align="center">GitHub Trophy</h2>
-</p>
-
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=rahul20000916&theme=darkhub&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="rahul20000916" />
-    </a>
-  </p>
-
-
-
-
-
-
-
-<img align= "right" alt="Me" width="400" height="250" src = "https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul20000916&label=Profile%20views&color=0e75b6&style=flat" alt="rahul20000916" /> 
 
 - 🔭 I’m currently working on **MERN STACK**
 
