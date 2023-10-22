@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul20000916&label=Profile%20views&color=0e75b6&style=flat" alt="rahul20000916" /> 
   
 - 🔭 I’m currently working on **MERN STACK**
-- 🌱 I’m currently learning **REACT etc.**
+- 🌱 I’m currently learning **DOCKER , KUBERNETES ...**
 - 👨‍💻 All of my projects are available at [https://rahul20000916.github.io/rahul_portfolio/](https://rahul20000916.github.io/rahul_portfolio/)
 - 💬Ask me about **MERN**
 - 📫 How to reach me **rahulpradeep061@gmail.com**
