@@ -45,9 +45,9 @@
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) 
 
 #### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul20000916&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=rahul20000916&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rahul20000916&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul20000916&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 #### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rahul20000916&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
