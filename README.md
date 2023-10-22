@@ -6,9 +6,9 @@
   
 - 🔭 I’m currently working on **MERN STACK**
 - 🌱 I’m currently learning **DOCKER , KUBERNETES ...**
-- 👨‍💻 All of my projects are available at [https://rahul20000916.github.io/rahul_portfolio/](https://rahul20000916.github.io/rahul_portfolio/)
-- 💬Ask me about **MERN**
-- 📫 How to reach me **rahulpradeep061@gmail.com**
+- 👨‍💻 Available at [https://rahul20000916.github.io/rahul_portfolio/](https://rahul20000916.github.io/rahul_portfolio/)
+- 💬 Ask me about **MERN**
+- 📫 Reach me **rahulpradeep061@gmail.com**
 - ⚡ Fun fact **I am an ARTIST**
   
 #### 🌐 Socials:
