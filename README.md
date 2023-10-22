@@ -1,7 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Hi+👋+I'm+RAHUL+PRADEEP;MERN+STACK+DEVELOPER;)](https://git.io/typing-svg)
 <h3>💫 About Me:</h3>
 <h4 align="left">MERN stack developer with freelancing experience in front-end and back-end development of web applications, self-taught and self-motivated, curious about learning and taking projects, enjoys exploring new ideas and creating solutions on time.</h4>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul20000916&label=Profile%20views&color=0e75b6&style=flat" alt="rahul20000916" /> 
+  
 - 🔭 I’m currently working on **MERN STACK**
 - 🌱 I’m currently learning **REACT etc.**
 - 👨‍💻 All of my projects are available at [https://rahul20000916.github.io/rahul_portfolio/](https://rahul20000916.github.io/rahul_portfolio/)
@@ -44,8 +46,8 @@
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) 
 #### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rahul20000916&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul20000916&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=rahul20000916&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul20000916&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 #### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rahul20000916&theme=radical&no-frame=false&no-bg=true&margin-w=2)
 
