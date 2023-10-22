@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Hi+👋+I'm+RAHUL+PRADEEP;MERN+STACK+DEVELOPER;)](https://git.io/typing-svg)
-# 💫 About Me:
-<h5 align="left">MERN stack developer with freelancing experience in front-end and back-end development of web applications, self-taught and self-motivated, curious about learning and taking projects, enjoys exploring new ideas and creating solutions on time.</h5>
+<h3># 💫 About Me:</h3>
+<h4 align="left">MERN stack developer with freelancing experience in front-end and back-end development of web applications, self-taught and self-motivated, curious about learning and taking projects, enjoys exploring new ideas and creating solutions on time.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul20000916&label=Profile%20views&color=0e75b6&style=flat" alt="rahul20000916" /> 
 
