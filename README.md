@@ -49,7 +49,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=rahul20000916&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rahul20000916&theme=dark&hide_border=true)
 #### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rahul20000916&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rahul20000916&theme=radical&no-frame=false&no-bg=true&margin-w=2)
 
 
 
