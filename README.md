@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+👋+RAHUL+PRADEEP;MERN+STACK+DEVELOPER;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Hi+👋+I'm+RAHUL+PRADEEP;MERN+STACK+DEVELOPER;)](https://git.io/typing-svg)
 
 # 💫 About Me:
 <h4 align="center">MERN stack developer with freelancing experience in front-end and back-end development of web applications, self-taught and self-motivated, curious about learning and taking on projects, enjoys exploring new ideas and creating solutions on time.</h4>
