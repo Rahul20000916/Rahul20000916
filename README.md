@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **DOCKER , KUBERNETES ...**
 - 👨‍💻 Available at [https://rahul20000916.github.io/rahul_portfolio/](https://rahul20000916.github.io/rahul_portfolio/)
 - 💬 Ask me about **MERN**
-- 📫 Reach me **rahulpradeep061@gmail.com**
+- 📫 Reach me **dev.rahul.pradeep@gmail.com**
 - ⚡ Fun fact **I am an ARTIST**
   
 #### 🌐 Socials:
